@@ -10,5 +10,9 @@ tqdm==4.57.0
 timm
 scikit-image
 nuscenes-devkit
+open3d-python
+inplace_abn
+einops
+
 
 
