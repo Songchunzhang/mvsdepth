@@ -6,14 +6,12 @@ pip install -r requirements.txt
 
 ## Train
 ```
-bash scripts dist_train.sh
-
-bash train.sh
+bash scripts/dist_train.sh
 ```
 
 ## Evaluate
 ```
-bash scripts evaluate.sh
+bash scripts/evaluate.sh
 ```
 
 
